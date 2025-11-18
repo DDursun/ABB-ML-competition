@@ -1,4 +1,4 @@
-# IBAML2MidProject
+# ABB ML competition
  For competition, we needed to predict the probability of bank customers defaulting on their loans or credit lines (such as credit cards and loans).
  I have tried several approaches in steps such as imputation of missing values, scaling and etc. In terms of models and algorithms, several of them were utilized starting from Logistic Regression up to various Bagging and Boosting techniques.
  
